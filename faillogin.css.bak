@@ -1,0 +1,7 @@
+body
+{
+background-image:url('FreeVector-Vector-Flowers-Background-Graphics.jpg');
+background-repeat:no-repeat; 
+background-size: 100%;
+ filter:alpha(opacity=50);
+} 

@@ -1,0 +1,7 @@
+body
+{
+background-image:url('url.jpg');
+background-repeat:no-repeat; 
+background-size: 100%;
+background-opacity:0.1;
+} 
